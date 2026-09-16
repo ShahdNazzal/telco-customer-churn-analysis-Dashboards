@@ -116,14 +116,3 @@ telco-churn-analysis/
 
 ---
 
-## 📬 Contact
-
-**[Your Name]**
-[LinkedIn](YOUR_LINK) · [GitHub](YOUR_LINK) · [Portfolio](YOUR_LINK)
-
-````
-
----
-
-بس عبيها بالـ metrics الفعلية (accuracy/precision/recall) من الأوت بوت يلي طلع معك بالخلية 32/34 وحطي روابطك الحقيقية بمكان الـ placeholders. جاهزة تنسخيها وتلزقيها بـ GitHub مباشرة.
-````
