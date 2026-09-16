@@ -52,8 +52,8 @@ Three pages:
 2. **Services** — KPI cards (Churn Rate, Customer Count, Avg Monthly Charges, Avg Tenure), churn by contract/internet service, payment method matrix, geographic distribution
 3. **Executive Scorecard** — High-level summary for stakeholders
 
-![Dashboard Info Page](assets/dashboard-info.png)
-![Dashboard Services Page](assets/dashboard-services.png)
+![Dashboard Info Page](first.png)
+![Dashboard Services Page](second.png)
 
 **Key DAX measure example:**
 ````dax
